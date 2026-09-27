@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ringo</string>
+    <string name="hello_world">Hello, World!</string>
+    <string name="ready_n">Ready...\n</string>
+    <string name="execute">Execute</string>
+    <string name="enter_input">Enter input...</string>
+    <string name="info">Info</string>
+    <string name="adjust">Adjust</string>
+    <string name="filters">Filters</string>
+    <string name="image_specs">Image Specs</string>
+    <string name="exposure">Exposure</string>
+    <string name="contrast">Contrast</string>
+    <string name="brightness">Brightness</string>
+    <string name="sepia">Sepia</string>
+    <string name="invert">Invert</string>
+    <string name="b_amp_w">B&amp;amp;W</string>
+    <string name="normal">Normal</string>
+    <string name="save">Save</string>
+    <string name="reset">Reset</string>
+</resources>
